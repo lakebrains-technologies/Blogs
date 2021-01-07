@@ -1,4 +1,7 @@
 # Color Segmentation & Modification
+### Author : Siddharth Mehta
+
+
 >While scrolling through the Fashion section on a shopping website, have you ever thought - "I wish I could change this color, and then this dress would look amazing !!"   
 >I have felt the same :D.
 
@@ -98,3 +101,4 @@ In this article, we saw some common problems one might face while working with p
 This field is still under Research & Development, and the complete process may be automated with better accuracy & precision in the future.<br>
 
 ---
+
