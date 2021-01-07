@@ -17,7 +17,7 @@ Scrapy is an application framework for crawling websites or web pages and extrac
 - Crawling:- Is the act of programmatically retrieving and downloading a web page’s data, extracting its hyperlink, and following them.
 - Scraping:- Is the act of programmatically retrieving and downloading a web page’s data, extracting very specific information from it.
 
-<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Learn_Scrapy_in_Detail/images/1.png?raw=true"/>
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Learn_Scrapy_in_Detail/Images/1.png?raw=true"/>
 
 > ## Some Python Libraries for Scraping
  - BeautifulSoup <br>
@@ -27,13 +27,13 @@ Scrapy is an application framework for crawling websites or web pages and extrac
 - LXML
 - Selectolax <br>
 
-![O](./../Markdown%20Blog/Images/Difference.png)
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Learn_Scrapy_in_Detail/Images/2.png?raw=true"/>
 
 > ## Scrapy is not a library it’s a Framework
 
 - There is a huge difference between framework and library let’s see the difference:
 
-![O](./../Markdown%20Blog/Images/framework.png)
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Learn_Scrapy_in_Detail/Images/3.png?raw=true"/>
 
 > ## Scrapy has two pillars on which it works: -
  1. Asynchronous
@@ -63,7 +63,7 @@ Scrapy is an application framework for crawling websites or web pages and extrac
 
 In the below image we can see the architecture of scrapy.
 
-![O](./../Markdown%20Blog/Images/spider.png)
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Learn_Scrapy_in_Detail/Images/4.png?raw=true"/>
  
 1. Spiders:- These are custom classes written by developers to parse responses and extract items from sites.
 2. Engine:- This is responsible for the data flow between all components of the system. And interfere when sudden action is happening.
@@ -72,7 +72,7 @@ In the below image we can see the architecture of scrapy.
 5. Items:- This is responsible for processing the items once they have been extracted by the Spiders. Items represent the data that is retrieved from the websites. It also does some typical tasks like cleaning, validating, and data persistence such as storing the item in the database.
 
 There is another example of scrapy architecture and the workflow of architecture.
-![O](./../Markdown%20Blog/Images/architecture.png)
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Learn_Scrapy_in_Detail/Images/5.png?raw=true"/>
 
 > ## Spiders
 
