@@ -1,5 +1,5 @@
 
-# **START YOUR FIRST SCRAPY PROJECT**
+# **Start Your First Scrapy Project**
 
 <img src="https://github.com/lakebrains-technologies/Blogs/blob/master/scrapy_project/images/thumbnail.png?raw=true"/>
 
