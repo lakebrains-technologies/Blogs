@@ -37,7 +37,7 @@ Selenium needs a browser driver to provide a platform to launch and perform task
 
 So we need to install a Webdriver in our web browser.
 
-### \#  **install Chromedriver in windows**
+### \#  **Install Chromedriver in Windows**
 
 Get to the latest release of Chromedriver by going to the official websites.
 [http://chromedriver.chromium.org/downloads](http://chromedriver.chromium.org/downloads)
@@ -45,7 +45,7 @@ After downloading the latest version you just need to unzip it.
 
 After unzip move the chormedrive to c://programfile or move to your python folder. Just confirm that your path is setup with your environment variable.
 
-### \# **Install ChromeDriver in ubantu**
+### \# **Install ChromeDriver in Ubantu**
 
 open terminal and run this command one by one
 
@@ -71,7 +71,7 @@ from selenium import driver
  driver.get(“https://www.lakebrains.com")
 ```
 
-### **locating elements:**
+### **Locating Elements:**
 
 when we want to extract data/content from website so we need to local or unique identifier of our conentet so following this locator element to we can get our content from website.
 
