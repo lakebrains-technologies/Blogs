@@ -1,4 +1,4 @@
-# WordPress Useful Plugins
+# WORDPRESS USEFUL PLUGINS
 Have you ever imagined:<br>
 a. How to set up call, message, email, social icons in a website???<br>
 b. How to set up forms how can you enter and submit your details??<br>
