@@ -9,7 +9,6 @@ OpenCV: ```pip install opencv-python```
 ## Basic Motion Detection
 Here, we will discuss the code and basic understanding of how things are working in the background. In computer vision, we consider motion as the change in surroundings. And to calculate the transition, we must have a background image to compare. So, we save the first image at the beginning of the program.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-mUJnKI3ipI" frameborder="0" allowfullscreen></iframe>
 
 ```
 # Converting the image to GrayScale
