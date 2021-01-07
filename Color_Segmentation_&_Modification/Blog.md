@@ -2,7 +2,7 @@
 >While scrolling through the Fashion section on a shopping website, have you ever thought - "I wish I could change this color, and then this dress would look amazing !!"   
 >I have felt the same :D.
 
-<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Color_Segmentation_&_Modification/images/Intro.png?raw=true"/>
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Color_Segmentation_&_Modification/images/Intro.png?raw=true">
 
 Working in the Image Processing field gives you the power to make this possible. As we started working on it, we came across this concept of Color Segmentation. The idea was to customize/change the colors present in an image. As we began to research, we came across many amazing articles on color segmentation using Neural Networks & OpenCV (a python library written for the sole purpose of taking up Computer Vision challenges). <br>
 
@@ -64,20 +64,29 @@ Initially, we made an ROI(Region of Interest) selector. As you can see in the im
 
 ### Limitations
 While increasing customization, we saw two types of problems:<br>
+
 1. Where the parts to be customized don't overlap with different parts of the same colors.<br>
-    <img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Color_Segmentation_&_Modification/images/sport_02.jpg?raw=true" style="width:300px;"/>
+   
+ <img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Color_Segmentation_&_Modification/images/sport_02.jpg?raw=true" style="width:300px;"/> <br>
+ 
 It can be solved simply using the ROI selector. All we have to do is select a portion and work with the colors inside it.<br>
-   <img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Color_Segmentation_&_Modification/images/ROI.png?raw=true" style="height:300px"><br>
+
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Color_Segmentation_&_Modification/images/ROI.png?raw=true" style="height:300px"><br>
 
 Similarily, we can customize a sport T-shirt.<br>
-   <img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Color_Segmentation_&_Modification/images/sport_02_base.jpg?raw=true" style="width:300px;">
+
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Color_Segmentation_&_Modification/images/sport_02_base.jpg?raw=true" style="width:300px;">
 
 
-2. Here, we saw overlapping(which made the customization a bit difficult).<br>
-    <img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Color_Segmentation_&_Modification/images/original_polo.png?raw=true" style="height:300px">
+1. Here, we saw overlapping(which made the customization a bit difficult).<br>
+
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Color_Segmentation_&_Modification/images/original_polo.png?raw=true" style="height:300px"> <br>
+
 It is quite complex to solve and requires some manual input. Here, we had to make a mask using coordinates to distinguish between different parts of the same color. Once we give it a precise mask around the areas with similar color, Knn does its job.<br>
-    <img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Color_Segmentation_&_Modification/images/demo_polo.png?raw=true" style="height:300px">
-<br>Here, the results are dependent on the precision of mask.(i.e. the more precise the mask is, the better results you get.)
+
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Color_Segmentation_&_Modification/images/demo_polo.png?raw=true" style="height:300px"> <br>
+
+Here, the results are dependent on the precision of mask.(i.e. the more precise the mask is, the better results you get.)
 
 
 
