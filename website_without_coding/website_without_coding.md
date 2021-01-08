@@ -58,5 +58,5 @@ You can create a featured image for your post by clicking on your page settings 
 ### 8. Add widgets:
 ![img](https://github.com/lakebrains-technologies/Blogs/blob/master/website_without_coding/images/wp%20widgets.png?raw=true)<br>
 You can even add widgets to your page on the header and footer section. Go on your menu and choose the customize section from there . You will see widgets option there. Select it and select the part of the page where you want to locate your widgets . Add add choose the suitable widgets for your page.<br>
-**For detailed reference:**
-**Refer:** [https://www.youtube.com/results?search_query=how+to+create+add+widgets++in+wordpress+](https://www.youtube.com/results?search_query=how+to+create+add+widgets++in+wordpress+)
+**For detailed reference:**<br>
+**Refer:** [https://www.youtube.com/results?search_query=how+to+create+add+widgets++in+wordpress+](https://www.youtube.com/results?search_query=how+to+create+add+widgets++in+wordpress+)<br>

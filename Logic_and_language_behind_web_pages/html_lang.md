@@ -1,17 +1,20 @@
 # CODING BEHIND WEBSITES
 ![img](https://github.com/lakebrains-technologies/Blogs/blob/master/Logic_and_language_behind_web_pages/images/html%20preview.png?raw=true)<br>
-Everyday we view many different web pages.
-Have you ever thought the logic or coding behind this???
+Everyday we view many different web pages.<br>
+Have you ever thought the logic or coding behind this???<br>
 I experience something new everyday!!!<br>
 ## HTML
 HTML stands for Hyper Text Markup Language. It is the standard markup language for creating web pages. It consists of several heading, styles, tables, lists, attribute, classes, colors, etc.<br>
-**Example:**
+
+**Example:**<br>
 ![img](https://github.com/lakebrains-technologies/Blogs/blob/master/Logic_and_language_behind_web_pages/images/html%20ex.png?raw=true)<br>
+
 **Explanation:**<br>
 Here we have explained the ```<title>,<h>,<p>``` element. The ```<title>``` element is used to give title for the HTML page. The ```<h>``` element is used to give heading and it may range from```<h1>-<h6>``` depending upon the importance. The ```<p>``` element is used for paragraph or description regarding the page.<br>
 
 **For detailed description:**<br>
-**Refer:** [https://www.w3schools.com/html/html_intro.asp](https://www.w3schools.com/html/html_intro.asp)<br>
+**Refer:** [https://www.w3schools.com/html/html_intro.asp](https://www.w3schools.com/html/html_intro.asp)<br> 
+
 ## HTML Attributes
 HTML attributes provides additional information about elements and they are always specified in the start tag. It usually comes in name/value pairs.<br>
 
