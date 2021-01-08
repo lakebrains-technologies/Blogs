@@ -55,7 +55,7 @@ Here we have explained formatting elements like ```<b>```-bold, ```<i>```-italic
 ## HTML Comments
 HTML comments are not displayed in the browser, but they can help document your html source code.<br>
 
-**Example:**
+**Example:** <br>
 ![img](https://github.com/lakebrains-technologies/Blogs/blob/master/Logic_and_language_behind_web_pages/images/html%20comments.png?raw=true)<br>
 
 **Explanation:**<br>
@@ -164,10 +164,10 @@ In the following example we have three ```<div>``` elements with a class attribu
 The id attribute specifies a unique id for an HTML element. The value of the id attribute must be unique within the HTML document.
 The syntax for id is: write a hash character (#), followed by an id name.<br>
 
-**Example:**
+**Example:** <br>
 ![img](https://github.com/lakebrains-technologies/Blogs/blob/master/Logic_and_language_behind_web_pages/images/html%20id%20attribute.png?raw=true)<br>
 
-Explanation:
+Explanation: <br>
 In the following example we have an ```<h1>```element that points to the id name “myHeader”. This ```<h1>``` element is styled according to the #myHeader style definition in the head section.<br>
 
 **For detailed description:**<br>
@@ -182,7 +182,7 @@ HTML has several semantic elements that define the different parts of a web page
 **Refer:** [https://www.w3schools.com/html/html_layout.asp](https://www.w3schools.com/html/html_layout.asp)<br>
 
 ## HTML computer code elements
-HTML contains several elements for defining user input and computer code.
+HTML contains several elements for defining user input and computer code.<br>
 It contains elements like ```<kbd>```-keyboard input,```<samp>```-sample output,```<code>```-computer code, ```<var>```-mathematical expression,
 ```<pre>```-preformatted text.<br>
 
@@ -193,7 +193,7 @@ It contains elements like ```<kbd>```-keyboard input,```<samp>```-sample output,
 Here, we have introduced computer code elements with their specific functions as you can see in the output.<br>
 
 **For detailed description:**<br>
-**Refer:** [https://www.w3schools.com/html/html_computercode_elements.asp](https://www.w3schools.com/html/html_computercode_elements.asp)
+**Refer:** [https://www.w3schools.com/html/html_computercode_elements.asp](https://www.w3schools.com/html/html_computercode_elements.asp)<br>
 
 ## HTML VS XHTML
 a. XHTML stands for Extensible Hyper Text Markup Language.<br>
@@ -213,7 +213,7 @@ h. Attribute values must always be quoted.<br>
 i. Attribute minimization is forbidden.<br>
 
 **For detailed description:**<br>
-**Refer:** [https://www.w3schools.com/html/html_xhtml.asp](https://www.w3schools.com/html/html_xhtml.asp)
+**Refer:** [https://www.w3schools.com/html/html_xhtml.asp](https://www.w3schools.com/html/html_xhtml.asp) <br>
 
 
 

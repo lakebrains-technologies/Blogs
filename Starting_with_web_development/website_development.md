@@ -1,8 +1,9 @@
 # STARTING WITH WEB DEVELOPMENT
+![img](https://github.com/lakebrains-technologies/Blogs/blob/master/Starting_with_web_development/images/web%20development%20preview.png?raw=true)<br>
 When you create a website there are some basic things that a web developer must know before creating a website.<br>
 Some of them I have mentioned below with an introduction about web development.<br>
+
 ## Website Development
-![img](https://github.com/lakebrains-technologies/Blogs/blob/master/Starting_with_web_development/images/web%20development%20preview.png?raw=true)<br>
 Website development is the coding or programming that enables website functionality as per the owner’s requirements. It mainly deals with the non-design aspect of building websites, which includes coding and writing markup.<br>
 ### Importance
 Website development is a way to make people aware of the services and/or products you are offering, understand why your products are relevant and even necessary for them to buy or use, and see which of your company’s qualities set it apart from competitors.<br>

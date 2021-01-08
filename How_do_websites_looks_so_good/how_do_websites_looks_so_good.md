@@ -285,7 +285,7 @@ We can do it by using the following css properties:<br>
 **a. Table Borders:**
 To specify table borders in CSS, use the border property.
 
-**Example**
+**Example** <br>
 ![img](https://github.com/lakebrains-technologies/Blogs/blob/master/How_do_websites_looks_so_good/images/tableborders.png?raw=true) <br>
 
 **Explanation:**
@@ -294,7 +294,7 @@ Here, we have given the border to the ```<table>, <th>, <td>``` elements using t
 **b. Table Size:**
 The size of a table are defined by the width and height properties.<br>
 
-**Example:**
+**Example:** <br>
 ![img](https://github.com/lakebrains-technologies/Blogs/blob/master/How_do_websites_looks_so_good/images/tablesize.png?raw=true) <br>
 
 **Explanation:**<br>
@@ -322,7 +322,7 @@ The display property specifies if/how an element is displayed.<br>
 
 ![img](https://github.com/lakebrains-technologies/Blogs/blob/master/How_do_websites_looks_so_good/images/cssdisplay.png?raw=true)
 
-**Example:**
+**Example:** <br>
 ![img](https://github.com/lakebrains-technologies/Blogs/blob/master/How_do_websites_looks_so_good/images/cssdisplayex.png?raw=true) <br>
 
 **Explanation:** <br>
@@ -432,7 +432,7 @@ property: value; <br>
 **Explanation:** <br>
 Here, we have used pseudo elements to style the first letter and first line by using it’s specific syntax.<br>
 
-**For detailed reference:**
+**For detailed reference:** <br>
 **Refer:** [https://www.w3schools.com/css/css_pseudo_elements.asp](https://www.w3schools.com/css/css_pseudo_elements.asp) <br>
 
 ### Opacity
