@@ -69,19 +69,18 @@ Y = list (cls)</br>
 ### #name list to convert integers into string </br>
 <code>names = ["unacc", "acc", "good", "vgood"]</br>
 </code>
-<code>
+
 ### #Giving the predicted data in the for loop
-for x in range(len(predicted)):</br> </code>
+for x in range(len(predicted)):</br>
 
 <code>
         print("Predicted: ", names[predicted[x]], "Data: ", x_test[x], "Actual: ", names[y_test[x]])</br></code>
 
-#Give the value of [x_test[x], Amount of      
+### #Give the value of [x_test[x], Amount of      
 neighbors 9 </br>
 <code>
     n = model.kneighbors([x_test[x]], 9, True)</br></code>
 
-#printing data for each point by printing n
+### #printing data for each point by printing n
 <code>    
     print("N: ", n)</br></code>
-    
