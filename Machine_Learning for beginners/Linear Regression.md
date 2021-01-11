@@ -1,13 +1,21 @@
 # Example of Linear Regression
-<code>
-    import pandas as pd</br></code>
+
+<code>import pandas as pd</br></code>
+
 <code>import numpy as np</br></code>
+
 <code>import sklearn</br></code>
+
 <code>from sklearn import linear_model</br></code>
+
 <code>from sklearn.utils import shuffle</br></code>
+
 <code>import matplotlib.pyplot as plt</br></code>
+
 <code>import pickle</br></code>
+
 <code>from matplotlib import style</br> </code>
+
 
 ### #Reading the CSV and sep the data by using sep = ; because data is seperated by ; in CSV file** </br>
 
