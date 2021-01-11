@@ -37,7 +37,7 @@ Y = np.array(data[predict]) #label
 x_train , x_test , y_train, y_test = sklearn.model_selection.train_test_split(X,Y, test_size=0.1)
 </code>
 
-# best = 0 is for finding best score
+### #best = 0 is for finding best score
 
 <code>
 best = 0
