@@ -39,7 +39,7 @@ Scrapy is an application framework for crawling websites or web pages and extrac
  1. Asynchronous
  2. Control
 ---
->1. ## **Asynchronous:- **
+>1. ## **Asynchronous:-**
 -  This is the most important and defining feature of scrapy.
 - Without Asynchronous it’s not possible to run multiple Spiders jobs at the same time.
 - Scrapy is written with twisted which is a high-level network event-driven framework for python.
