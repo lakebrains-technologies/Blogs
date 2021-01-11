@@ -2,11 +2,18 @@
 
 
 <code>import sklearn</br></code>
+
 <code>from sklearn.utils import shuffle</br></code>
-<code>from sklearn.neighbors import KNeighborsClassifier </br></code>
+
+<code>from sklearn.neighbors import 
+KNeighborsClassifier </br></code>
+
 <code>import pandas as pd</br></code>
+
 <code>import numpy as np</br></code>
+
 <code>from sklearn import linear_model, preprocessing  </br></code>
+
 
 ### #Preprocessing use to convert non-numeric value to numeric values
 
@@ -65,12 +72,16 @@ Y = list (cls)</br>
 <code>
 ### #Giving the predicted data in the for loop
 for x in range(len(predicted)):</br> </code>
-<code>  
+
+<code>
         print("Predicted: ", names[predicted[x]], "Data: ", x_test[x], "Actual: ", names[y_test[x]])</br></code>
+
 #Give the value of [x_test[x], Amount of      
 neighbors 9 </br>
 <code>
     n = model.kneighbors([x_test[x]], 9, True)</br></code>
-    #printing data for each point by printing n
+
+#printing data for each point by printing n
 <code>    
     print("N: ", n)</br></code>
+    
