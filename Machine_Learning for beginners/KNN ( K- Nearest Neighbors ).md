@@ -71,10 +71,10 @@ Y = list (cls)</br>
 </code>
 
 ### #Giving the predicted data in the for loop
-for x in range(len(predicted)):</br>
+<code> for x in range(len(predicted)):</br></code>
 
 <code>
-        print("Predicted: ", names[predicted[x]], "Data: ", x_test[x], "Actual: ", names[y_test[x]])</br></code>
+    print("Predicted: ", names[predicted[x]], "Data: ", x_test[x], "Actual: ", names[y_test[x]])</br></code>
 
 ### #Give the value of [x_test[x], Amount of      
 neighbors 9 </br>
