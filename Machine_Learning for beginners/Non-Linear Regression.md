@@ -31,4 +31,4 @@ plt.show() #Print the plot
 </code>
 </br>
 
-<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Machine_Learning%20for%20beginners/Images/Linear.png?raw=true"/>
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Machine_Learning%20for%20beginners/Images/Non-Linear.png?raw=true"/>
