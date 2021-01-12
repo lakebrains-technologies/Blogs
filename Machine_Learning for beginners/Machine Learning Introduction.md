@@ -1,4 +1,7 @@
-# **Machine Learning Introduction**
+# **Machine Learning Introduction**</br>
+
+**Machine Learning is not more than a program which learn through the data and his working experience. If we are making a programe that helps the machine to learn and grow and work even faster than before called Machine Learning.** 
+
 
 ## **What is Machine Learning?**
 
