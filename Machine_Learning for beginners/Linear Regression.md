@@ -88,5 +88,9 @@ style.use("ggplot")
 plt.scatter(data[p], data["G3"]) # scatter is a diagram where each value in data is shown as dot
 # plt.xlable("G1") #name of xlable
 # plt.ylable("final grade") # name of ylable
-plt.show() # to show the grapical representation
+plt.show() # to show the grapical representation </br>
+
 </code>
+
+
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Machine_Learning%20for%20beginners/Images/Linear.png?raw=true"/>
