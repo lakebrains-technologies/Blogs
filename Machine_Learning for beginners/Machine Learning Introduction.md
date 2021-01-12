@@ -1,6 +1,9 @@
+
 # **Machine Learning Introduction**</br>
 
-**Machine Learning is not more than a program which learn through the data and his working experience. If we are making a programe that helps the machine to learn and grow and work even faster than before called Machine Learning.** 
+*Machine Learning is not more than a program which learn through the data and his working experience. If we are making a programe that helps the machine to learn and grow and work even faster than before called Machine Learning.* </br>
+
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Machine_Learning%20for%20beginners/Images/what-is-machine-learning.jpg?raw=true"/>
 
 
 ## **What is Machine Learning?**
@@ -26,7 +29,12 @@
 
 *Whether or not they are trained with human supervision (supervised learning, unsupervised learning, semi-supervised learning and Reinforcement learning) Whether or not they can learn incrementally on the fly (online versus batch learning) Whether they work by simply comparing new data points to known data points, or instead detect patterns in the training data and build a predictive model, much like scientists do (instance-based versus model-based learning)* </br>
 
-*Machine Learning systems can be classified according to the amount and type of supervision they get during training. There are four major categories: supervised learning, unsupervised learning, semi-supervised learning, and Reinforcement Learning.*
+*Machine Learning systems can be classified according to the amount and type of supervision they get during training. There are four major categories: supervised learning, unsupervised learning, semi-supervised learning, and Reinforcement Learning.*</br>
+
+
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Machine_Learning%20for%20beginners/Images/2.jpg?raw=true"/>
+</br>
+
 
 1.	*Supervised Learning :-* </br> 
 *In Supervised learning the training data you feed to the algorithm includes the desired solutions , called Lable. A typical supervised learning task is Classification. Basically supervised learning is a learning in which we teach or train the machine using data which is well labeled that means some data is already tagged with the correct answer.
@@ -40,21 +48,32 @@ For instance :- Suppose you are given a basket filled with different kinds of fr
 
 •	*Since the machine has already learned the things from previous data and this time have to use it wisely. It will first classify the fruit with its shape and color and would confirm the fruit name as BANANA and put it in Banana category. Thus the machine learns the things from training data(basket containing fruits) and then apply the knowledge to test data(new fruit).* </br>
 
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Machine_Learning%20for%20beginners/Images/3.png?raw=true"/>
+</br>
+
 ### Supervised learning classified into two categories of algorithms :- </br>
 
 ### •  Classification: </br>
     *A classification problem is when the output variable is a category, such as “Red” or “blue” or “disease” and “no disease”. Classification algorithms in machine learning use input training data to predict the likelihood that subsequent data will fall into one of the predetermined categories. One of the most common uses of classification is filtering emails into “spam” or “non-spam.”* </br>
 
-### •	Regression: </br>
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Machine_Learning%20for%20beginners/Images/4.png?raw=true"/>
+</br>
+
+### *Classification Diagram*</br>
+</br>
+
+### • Regression: </br>
   *A regression problem is when the output variable is a real value, such as “dollars” or “weight”. Another typical task is to predict a target numeric value, such as the price of a car,given a set of features (mileage, age, brand, etc.) called predictors.* </br>
  
   *A regression problem is when the output variable is a real or continuous value, such as “salary” or “weight”. Many different models can be used, the simplest is the linear regression. It tries to fit data with the best hyper-plane which goes through the points.* </br>
+
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Machine_Learning%20for%20beginners/Images/5.png?raw=true"/>
+</br>
 
 ### There are two type of regression model. </br>
 
 ## A.	Linear Regression:- </br>
  *It is a statistical method that is used for predictive analysis. Linear regression makes predictions for continuous/real or numeric variables such as sales, salary, age, product price, etc.*
-
 ### There are two types of linear regression algorithm:-
 #### a.	Simple Linear :- </br>
  *If a single independent variable is used to predict the value of a numerical dependent variable, then such a Linear Regression algorithm is called Simple Linear Regression.* </br>
@@ -65,6 +84,9 @@ For instance :- Suppose you are given a basket filled with different kinds of fr
 
 ### B.	Non-linear Regression:- </br>
  *Non-Linear regression is a type of polynomial regression. It is a method to model a non-linear relationship between the dependent and independent variables. It is used in place when the data shows a curvy trend, and linear regression would not produce very accurate results when compared to non-linear regression. This is because in linear regression it is pre-assumed that the data is linear.* </br>
+
+<img src="https://github.com/lakebrains-technologies/Blogs/blob/master/Machine_Learning%20for%20beginners/Images/6.png?raw=true"/>
+</br>
 
 ### Types:-
 •	*Logistic Regression* </br>
